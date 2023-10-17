@@ -1,9 +1,9 @@
 # We are "Project Terra"
 
-現在はアルファDev期間ですので解禁できる情報はございません😭
-We are currently in the Alpha Dev period, so we do not have any information to release.
-현재 알파 개발 기간 중이므로 공개할 정보가 없습니다.
-我们目前正处于 Alpha 开发阶段，因此没有任何信息可以发布。
+### 現在はアルファDev期間ですので解禁できる情報はございません😭
+### We are currently in the Alpha Dev period, so we do not have any information to release.
+### 현재 알파 개발 기간 중이므로 공개할 정보가 없습니다.
+### 我们目前正处于 Alpha 开发阶段，因此没有任何信息可以发布。
 
 - Official Site: [link here]
 - X(Twitter): [link here]
